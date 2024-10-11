@@ -1,6 +1,6 @@
 ex1 - shapes calculator
 =====================================
-* Yehu Raccah - 315346726
+* Yehu Raccah
 
 * A shapes calculator, able to create, draw, stack, duplicate, enlarge and reduce
   shapes of types - squares, triangles, rectangles.
